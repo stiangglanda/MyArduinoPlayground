@@ -1,0 +1,19 @@
+{
+  "name": "Schrittmotor",
+  "version": "1.0",
+  "description": "This library is part of Danny Schreiters Arduino Kompendium book and shall show an example of how to create libraries on your own. It can be used to control 28BYJ stepper motors.",
+  "keywords": "28BYJ, stepper, Arduino, Schrittmotor",
+  "authors":
+  {
+    "name":  "Danny Schreiter",
+    "url":   "https://www.bmu-verlag.de",
+    "maintainer": true
+  },
+  "repository":
+  {
+    "type": "git",
+    "url": "https://github.com/beispiel"
+  },
+  "homepage": "https://www.bmu-verlag.de",
+  "examples": "examples/*/*/*.ino"
+}

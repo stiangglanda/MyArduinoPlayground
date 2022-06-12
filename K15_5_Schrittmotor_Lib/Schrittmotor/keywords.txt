@@ -1,0 +1,11 @@
+# Schlüsselwort für Klassennamen (werden orange hervorgehoben): KEYWORD1
+Schrittmotor 	KEYWORD1
+
+# Schlüsselwörter für Funktionen/Methoden: KEYWORD2
+gibStatus 	KEYWORD2
+gibPosition 	KEYWORD2
+bewegeGeschwindigkeit KEYWORD2
+bewegePosition 	KEYWORD2
+Schleife 	KEYWORD2
+setze0		KEYWORD2
+Stopp		KEYWORD2
