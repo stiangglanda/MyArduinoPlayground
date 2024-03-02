@@ -7,9 +7,8 @@ Due to the memory limitations of the Arduino, you can only play about 3.5 second
 
 <img src="doc/toto.jpg" alt="drawing" width="400"/>
 
-<video width="320" height="240" controls>
-  <source src="doc/toto.mp4" type="video/mp4">
-</video>
+
+https://github.com/stiangglanda/MyArduinoPlayground/assets/69088823/8594b9e9-4a46-4e6b-8e60-105554172b00
 
 ## Requirements
 - Arduino board (e.g., Arduino Uno)
